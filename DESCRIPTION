@@ -1,0 +1,20 @@
+Package: flightsPR
+Title: Flight Data from Puerto Rico for Educational Purposes
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Ian",
+           family = "Flores Siaca",
+           role = c("aut", "cre"),
+           email = "iflores.siaca@gmail.com",
+           comment = c(ORCID = "0000-0002-7573-0708"))
+Description: This package shares small datasets for educational purposes.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Depends: 
+    R (>= 2.10)
+Imports: 
+    readr (>= 1.1.0),
+    dplyr (>= 0.7.0),
+    magrittr (>= 1.5.0)
