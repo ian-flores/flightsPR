@@ -19,7 +19,10 @@ This is a basic example which shows you how to solve a common problem:
 
 ``` r
 library(flightsPR)
-## basic example code
+
+# Only dataset available
+
+flights_sju_mco 
 ```
 
 ## License
